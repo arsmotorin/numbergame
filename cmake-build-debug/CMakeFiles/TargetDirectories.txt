@@ -1,0 +1,3 @@
+/Users/cubelius/Desktop/numbergame/cmake-build-debug/CMakeFiles/numbergame.dir
+/Users/cubelius/Desktop/numbergame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cubelius/Desktop/numbergame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
